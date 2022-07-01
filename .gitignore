@@ -1,0 +1,4 @@
+__pycache__
+.env
+.learn
+data/raw/AB_NYC_2019.csv
